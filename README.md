@@ -1,8 +1,8 @@
 # Flynn Blackthorn
 ### Quick reference
->**Planet name** - Thaloria B (in a binary star system)
-**Kingdom / Country name** - Cerentine Empire 
-**Town name** - Driftcove (crescent shape Island) 
+>**Planet name** - Thaloria B (in a binary star system)  
+**Kingdom / Country name** - Cerentine Empire  
+**Town name** - Driftcove (crescent shape Island)  
 **University name** - Neridion University of Bioengineering (with an underwater campus)
 **Mother** - Mirelle Blackthorn, Sea Elf, Cleric (Tempest Domain) of Aestus, Marine Biologist
 **Stepfather** - Xavier Teyros, Half Sea Elf / Half Astral Elf, Paladin (Oath of Progress), Senior Executive of Aquatech Innovations
@@ -55,10 +55,10 @@ The most striking feature of Mirelle is the intricate network of black, thorn-li
 
 ## Stepfather
 ### Xavier Teyros
-**Race:** Half Sea Elf / Half Astral Elf
-**Age:** 242 (Appears in his mid-30s)
-**Class:** Paladin (Oath of Progress)
-**Occupation:** Senior Executive of Aquatech Innovations
+**Race:** Half Sea Elf / Half Astral Elf  
+**Age:** 242 (Appears in his mid-30s)  
+**Class:** Paladin (Oath of Progress)  
+**Occupation:** Senior Executive of Aquatech Innovations  
 
 #### Appearance:
 Xavier is a lean, tall Aquari with sleek, smooth skin that resembles polished metal, a silvery-grey tone flecked with faint turquoise undertones. His hair is short and jet black, always neatly combed to maintain an air of professionalism. His eyes are a cold, pale blue, often scanning the room with a focused but impersonal gaze through his rectangular glasses, rarely showing much emotion. His features are angular and sharp, carrying a sense of both efficiency and distance. A faint shimmer of bioluminescence often glows from beneath his skin, a result of his aquatic heritage, though it’s subtle and rarely noticed unless he's submerged in water. He often wears tailored corporate attire or business suits, favoring practicality and status over anything else.
