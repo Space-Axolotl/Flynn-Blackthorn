@@ -1,5 +1,6 @@
+# Flynn Blackthorn
 ### Quick reference
-**Planet name** - Thaloria B (in a binary star system) 
+>**Planet name** - Thaloria B (in a binary star system)
 **Kingdom / Country name** - Cerentine Empire 
 **Town name** - Driftcove (crescent shape Island) 
 **University name** - Neridion University of Bioengineering (with an underwater campus)
@@ -55,7 +56,7 @@ The most striking feature of Mirelle is the intricate network of black, thorn-li
 ## Stepfather
 ### Xavier Teyros
 **Race:** Half Sea Elf / Half Astral Elf
-**Age:** 242 (Appears in his mid-30s)  
+**Age:** 242 (Appears in his mid-30s)
 **Class:** Paladin (Oath of Progress)
 **Occupation:** Senior Executive of Aquatech Innovations
 
