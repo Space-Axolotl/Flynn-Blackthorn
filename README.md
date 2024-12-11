@@ -1,13 +1,13 @@
 # Flynn Blackthorn
 ### Quick reference
 >**Planet name** - Thaloria B (in a binary star system)  
-**Kingdom / Country name** - Cerentine Empire  
-**Town name** - Driftcove (crescent shape Island)  
-**University name** - Neridion University of Bioengineering (with an underwater campus)
-**Mother** - Mirelle Blackthorn, Sea Elf, Cleric (Tempest Domain) of Aestus, Marine Biologist
-**Stepfather** - Xavier Teyros, Half Sea Elf / Half Astral Elf, Paladin (Oath of Progress), Senior Executive of Aquatech Innovations
-**Brother** - Dead
-**Friend from Highschool** - Azbern (Nick's PC)
+**Kingdom / Country name** - Cerentine Empire   
+**Town name** - Driftcove (crescent shape Island)   
+**University name** - Neridion University of Bioengineering (with an underwater campus)  
+**Mother** - Mirelle Blackthorn, Sea Elf, Cleric (Tempest Domain) of Aestus, Marine Biologist  
+**Stepfather** - Xavier Teyros, Half Sea Elf / Half Astral Elf, Paladin (Oath of Progress), Senior Executive of Aquatech Innovations  
+**Brother** - Dead  
+**Friend from Highschool** - Azbern (Nick's PC)  
 #### Flynn's Origins
 This particular story starts relatively close to the center of the Klorian Galaxy where an ocean world called Thaloria B orbits in a binary system. On a crescent shape island in a town called Driftcove lived Mirelle; a devout cleric of Aestus, the god of oceans and moons. Mirelle Blackthorn, had been on a perilous sea-bound quest when a planar convergence occurred. An extraordinary event where the boundaries between 2 planes, in this case the Material Plane and the Elemental Plane of Water grew thin, flooding the world with raw, untamed magic. A sudden and violent storm erupted, far beyond anything she had encountered, with waves that shimmered with ethereal light and winds that carried a haunting, otherworldly melody.
 
@@ -46,8 +46,8 @@ Flynn’s greatest insecurity is not in his science, but in his identity. He kno
 **Race:** Sea Elf  
 **Age:** 286 (Appears late 30s to early 40s)  
 **Class:** Cleric (Tempest Domain)  
-**Deity:** Aestus, a deity of Oceans and Moons
-**Occupation:** Marine Biologist
+**Deity:** Aestus, a deity of Oceans and Moons  
+**Occupation:** Marine Biologist  
 #### Appearance
 Mirelle’s pale skin glistens faintly with a sheen reminiscent of ocean spray. Her silver-white hair falls in long, wavy locks, perpetually tousled by an invisible breeze. Her eyes are like storm-tossed seas, shifting hues of deep blue and grey.
 
